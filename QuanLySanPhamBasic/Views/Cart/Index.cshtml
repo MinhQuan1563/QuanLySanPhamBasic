@@ -1,0 +1,96 @@
+﻿
+@model QuanLySanPhamBasic.Models.Cart
+
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<div class="container my-5">
+    <h2 class="mb-4 fw-bold text-primary">🛒 Giỏ hàng của bạn</h2>
+
+    @if (Model != null)
+    {
+        <div class="row">
+            <!-- Giỏ hàng -->
+            <div class="col-lg-8 mb-4">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h5 class="fw-semibold">Danh sách sản phẩm</h5>
+                    <a asp-route-cartId="@Model.Id" asp-action="DeleteAllCart" class="btn btn-outline-danger btn-sm">
+                        <i class="bi bi-trash3"></i> Xóa tất cả
+                    </a>
+                </div>
+
+                <div class="table-responsive shadow-sm rounded bg-white">
+                    <table class="table table-bordered text-center align-middle mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Sản phẩm</th>
+                                <th>Đơn giá</th>
+                                <th>Số lượng</th>
+                                <th>Thành tiền</th>
+                                <th>Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.CartDetails != null && Model.CartDetails.Any())
+                            {
+                                foreach (var item in Model.CartDetails)
+                                {
+                                    <tr>
+                                        <td>@item.Book?.Title</td>
+                                        <td>@item.Price.ToString("C")</td>
+                                        <td>
+                                            <input type="number" value="@item.Quantity" min="1" class="form-control text-center" style="width: 80px; margin: auto;" />
+                                        </td>
+                                        <td>@((item.Price * item.Quantity).ToString("C"))</td>
+                                        <td>
+                                            <a asp-route-cartId="@item.CartId" asp-route-bookId="@item.BookId" asp-action="Delete" class="delete"><i class="material-icons" title="Delete">&#xE872;</i></a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="5" class="text-center text-muted">Giỏ hàng của bạn trống.</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Thanh toán -->
+            <div class="col-lg-4">
+                <div class="bg-white rounded shadow-sm p-4">
+                    <h5 class="fw-semibold mb-3">🧾 Thông tin thanh toán</h5>
+
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Tạm tính:</span>
+                        <span>@Model.TotalPrice.ToString("C")</span>
+                    </div>
+
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>Giảm giá:</span>
+                        <span class="text-success">-0₫</span>
+                    </div>
+
+                    <hr />
+
+                    <div class="d-flex justify-content-between fw-bold text-primary fs-5 mb-3">
+                        <span>Thành tiền:</span>
+                        <span>@Model.TotalPrice.ToString("C")</span>
+                    </div>
+
+                    <button class="btn btn-primary w-100" disabled>Tiến hành thanh toán</button>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center mt-5">
+            @TempData["Message"] ?? "Không tìm thấy giỏ hàng."
+        </div>
+    }
+</div>

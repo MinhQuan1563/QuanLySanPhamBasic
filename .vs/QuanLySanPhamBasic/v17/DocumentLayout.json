@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\interface\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\interface\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\seeddata\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\seeddata\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\bookcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\bookcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\cart\\deleteallcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\cart\\deleteallcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.Carts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\interface\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\interface\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.CartDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|e:\\minhquan\\workspace\\csharp\\quanlysanphambasic\\quanlysanphambasic\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAE2BFD-F2DF-44FF-BEDC-BB9546B35D4B}|QuanLySanPhamBasic\\QuanLySanPhamBasic.csproj|solutionrelative:quanlysanphambasic\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T04:26:01.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T16:30:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T13:58:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Books\\Details.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T13:58:52.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Books\\Index.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAswHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T13:57:38.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\CartController.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:14:04.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Repository\\BookRepo.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Repository\\BookRepo.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Repository\\BookRepo.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Repository\\BookRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:22:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepo.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Repository\\CartRepo.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Repository\\CartRepo.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Repository\\CartRepo.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Repository\\CartRepo.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA9wGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:47:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:06:48.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:52:52.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Books\\Create.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T13:58:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:52:15.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Controllers\\BookController.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwIIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:05:59.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Interface\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Interface\\IBookRepo.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Interface\\IBookRepo.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Interface\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:17:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Program.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Program.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:49:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:20:32.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\appsettings.json",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\appsettings.json",
+              "RelativeToolTip": "QuanLySanPhamBasic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T14:32:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\CartDetail.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\CartDetail.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:47:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookCatalog.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\BookCatalog.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\BookCatalog.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\BookCatalog.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\BookCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:14:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\Book.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Book.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:26:23.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\Cart.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Cart.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:47:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\SeedData\\Seed.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\SeedData\\Seed.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\SeedData\\Seed.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\SeedData\\Seed.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:48:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\AppUser.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\AppUser.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:24:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\Genre.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Genre.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:34:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Models\\Catalog.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Models\\Catalog.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:34:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICartRepo.cs",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Interface\\ICartRepo.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Interface\\ICartRepo.cs",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Interface\\ICartRepo.cs",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Interface\\ICartRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:45:57.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Cart\\Delete.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\Delete.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Cart\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:52:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Carts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.Carts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.Carts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T08:18:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteAllCart.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\DeleteAllCart.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Cart\\DeleteAllCart.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Cart\\DeleteAllCart.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Cart\\DeleteAllCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:20:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.CartDetails.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.CartDetails.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_5V8UBKI_SQLEXPRESS01/QLSPBasic/True/SqlTable/dbo.CartDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T15:48:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "QuanLySanPhamBasic\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\MINHQUAN\\Workspace\\CSharp\\QuanLySanPhamBasic\\QuanLySanPhamBasic\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "QuanLySanPhamBasic\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:06:40.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

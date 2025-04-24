@@ -1,0 +1,66 @@
+﻿@using System.Collections.Generic
+@using QuanLySanPhamBasic.Models
+@using QuanLySanPhamBasic.ViewModel
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Authentication
+@using Microsoft.AspNetCore.Identity
+@model LoginViewModel
+@inject SignInManager<AppUser> SignInManager
+
+@{
+    ViewData["Title"] = "Đăng nhập";
+}
+
+<h1>@ViewData["Title"].</h1>
+<div class="row">
+    <div class="col-md-8">
+        <section>
+            <form asp-controller="Auth" asp-action="Login" method="post" class="form-horizontal" role="form">
+                <h4>Sử dụng tài khoản đã đăng ký để đăng nhập</h4>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            <label asp-for="RememberMe">
+                                <input asp-for="RememberMe" />
+                                @Html.DisplayNameFor(m => m.RememberMe)
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="submit" class="btn btn-primary">Đăng nhập</button>
+                    </div>
+                </div>
+                <p>
+                    <a asp-action="Register" >Chưa có tài khoản? Đăng ký</a>
+                </p>
+                <p>
+                    <a asp-action="ForgotPassword">Quyên mật khẩu?</a>
+                </p>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
